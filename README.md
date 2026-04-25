@@ -10,5 +10,5 @@
 </p>
 
 <p align="left">
-  My Discord username is <strong>machadoo__</strong> if you'd like to contact me
+  📩 My Discord username is <strong>machadoo__</strong> if you'd like to contact me
 </p>
