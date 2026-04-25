@@ -1,7 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-    My name is Axo, and I'm currently learning <strong>LUAU</strong><br>
+    My name is Axo, and I'm currently learning <strong>LUAU</strong><br> for Roblox Studio
+    currently trying to develop horror games
 </p>
 
 <p align="left">
