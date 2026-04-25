@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Languages: Luau, Python
+  🦄 <strong>Languages:</strong> Luau, Python
 </p>
 
 <p align="left">
