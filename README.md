@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  💼 <strong>Ferramentas:</strong> **Coloque as suas ferramentas de trabalho.**
 </p>
 
 <p align="left">
