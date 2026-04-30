@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 <strong>Cursos:</strong> Cursando Desenvolvimento de sistemas em José da costa
+  🦄 <strong>Cursos:</strong> Desenvolvimento de sistemas em Escola tecnica
 </p>
 
 <p align="left">
